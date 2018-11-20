@@ -1,8 +1,9 @@
 {
   "meta": {
     "username": "caioalexandreleal",
-    "repositoryName": "",
-    "branch": "master"
+    "repositoryName": "hubpress.io",
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -27,5 +28,31 @@
       null
     ],
     "_Ctor": {}
-  }
+  },
+  "site": {
+    "title": "RNP Blog",
+    "description": "Nosso blog",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
